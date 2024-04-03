@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mp:date xmlns:mp="mx.MarketParameters" xmlns:xc="mx.MarketParameters" xc:value="20200124">
+   <sc:security xmlns:sc="mx.MarketParameters.Securities">
+      <scpr:price xmlns:scpr="mx.MarketParameters.Securities.Prices">
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R186">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">8.23878</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">8.23878</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R186">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">1322.26</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1322.26</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R186">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">2520.68</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">2520.68</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R186">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">727.31</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">727.31</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2023">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">6.72122</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">6.72122</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2030">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">9.22222</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">9.22222</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2030">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">1255.68</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1255.68</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2030">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">895.93</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">895.93</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2030">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">887.80</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">887.80</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2030">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">1199.78</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1199.78</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2030">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">2333.19</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">2333.19</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2030">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">2360.28</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">2360.28</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2037">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">10.18648</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.18648</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2040">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">10.31229</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.31229</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2040">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">3039.65</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">3039.65</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2040">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">3850.21</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">3850.21</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2040">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">1383.35</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1383.35</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2040">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">1099.61</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1099.61</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2040">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">1624.75</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1624.75</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2040">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">2212.15</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">2212.15</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">10.41374</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.41374</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">2857.61</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">2857.61</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">2225.94</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">2225.94</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">1817.36</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1817.36</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">528.64</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">528.64</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">1045.71</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1045.71</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">2699.47</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">2699.47</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2048">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">10.39119</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.39119</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R208">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">5.21539</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">5.21539</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R209">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">10.02530</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.02530</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R213">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">9.42594</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">9.42594</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R214">
+                  <scpr:maturity xc:type="Fields" xc:value="NOV 20">
+                     <mp:bid1 xc:keyFormat="N">10.23260</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.23260</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZA JSE">
+               <scpr:label xc:value="JSE GOVI TR">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">722.050</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">722.050</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZA JSE">
+               <scpr:label xc:value="JSE IGOV TR">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">267.931</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">267.931</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R186">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">8.19031</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">8.19031</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2023">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">6.77594</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">6.77594</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2030">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">9.15263</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">9.15263</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2037">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">10.10468</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.10468</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2040">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">10.23032</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.23032</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">10.33298</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.33298</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">1747.99</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1747.99</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">1476.63</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1476.63</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">248.56</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">248.56</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">595.46</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">595.46</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">1181.56</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1181.56</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">2079.13</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">2079.13</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2048">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">10.31010</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.31010</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2048">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">246.82</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">246.82</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2048">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">456.54</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">456.54</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R208">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">6.02216</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">6.02216</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R209">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">9.94912</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">9.94912</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R213">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">9.35157</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">9.35157</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R214">
+                  <scpr:maturity xc:type="Fields" xc:value="AUG 20">
+                     <mp:bid1 xc:keyFormat="N">10.15593</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.15593</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZA JSE">
+               <scpr:label xc:value="JSE GOVI TR">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">696.985</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">696.985</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZA JSE">
+               <scpr:label xc:value="JSE IGOV TR">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">258.506</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">258.506</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R186">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">8.09729</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">8.09729</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R186">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">509.86</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">509.86</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R186">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">17.46</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">17.46</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R186">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">0.04</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">0.04</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2023">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">6.86871</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">6.86871</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2030">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">9.01025</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">9.01025</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2030">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">0.97</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">0.97</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2030">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">552.23</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">552.23</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2030">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">130.20</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">130.20</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2030">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">40.73</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">40.73</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2037">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">9.93690</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">9.93690</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2040">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">10.06193</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.06193</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">10.16678</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.16678</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">16.53</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">16.53</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">0.00</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">0.00</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">30.29</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">30.29</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2048">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">10.15716</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.15716</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R208">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">6.56479</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">6.56479</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R209">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">9.80094</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">9.80094</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R213">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">9.21608</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">9.21608</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R214">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">10.01153</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.01153</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R214">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">59.28</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">59.28</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R214">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">11.08</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">11.08</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R214">
+                  <scpr:maturity xc:type="Fields" xc:value="FEB 20">
+                     <mp:bid1 xc:keyFormat="N">304.60</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">304.60</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZA JSE">
+               <scpr:label xc:value="JSE GOVI TR">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">709.325</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">709.325</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZA JSE">
+               <scpr:label xc:value="JSE IGOV TR">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">263.147</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">263.147</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R186">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">8.14412</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">8.14412</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R186">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">649.73</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">649.73</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2023">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">6.83302</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">6.83302</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2030">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">9.08051</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">9.08051</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2037">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">10.01955</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.01955</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2037">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">2088.56</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">2088.56</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2037">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">1117.83</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1117.83</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2040">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">10.14489</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.14489</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2040">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">1793.75</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1793.75</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2040">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">489.15</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">489.15</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">10.24869</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.24869</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">928.87</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">928.87</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">660.01</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">660.01</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">111.07</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">111.07</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">250.71</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">250.71</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">1152.66</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1152.66</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2044">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">1335.19</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1335.19</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2048">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">10.23320</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.23320</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2048">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">2511.58</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">2511.58</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2048">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">1092.68</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1092.68</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R2048">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">641.29</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">641.29</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R208">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">6.38469</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">6.38469</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R209">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">9.87464</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">9.87464</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R213">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">9.28367</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">9.28367</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R214">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">10.08345</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">10.08345</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R214">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">801.89</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">801.89</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R214">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">282.86</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">282.86</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R214">
+                  <scpr:maturity xc:type="Fields" xc:value="MAY 20">
+                     <mp:bid1 xc:keyFormat="N">1451.97</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">1451.97</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="JSE R186">
+                  <scpr:maturity xc:type="Fields" xc:value="DEC 26">
+                     <mp:bid1 xc:keyFormat="N">0.00000</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">0.00000</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="C044">
+                  <scpr:maturity xc:type="Fields" xc:value="JAN 44">
+                     <mp:bid1 xc:keyFormat="N">100.000</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">100.000</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="C208">
+                  <scpr:maturity xc:type="Fields" xc:value="MAR 21">
+                     <mp:bid1 xc:keyFormat="N">100.000</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">100.000</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="0804">
+                  <scpr:maturity xc:type="Fields" xc:value="MAR 21">
+                     <mp:bid1 xc:keyFormat="N">100.0</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">100.0</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="0807">
+                  <scpr:maturity xc:type="Fields" xc:value="MAR 21">
+                     <mp:bid1 xc:keyFormat="N">100.0</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">100.0</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="C210">
+                  <scpr:maturity xc:type="Fields" xc:value="MAR 28">
+                     <mp:bid1 xc:keyFormat="N">100.000</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">100.000</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="C002">
+                  <scpr:maturity xc:type="Fields" xc:value="MAR 32">
+                     <mp:bid1 xc:keyFormat="N">100.000</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">100.000</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="C209">
+                  <scpr:maturity xc:type="Fields" xc:value="MAR 26">
+                     <mp:bid1 xc:keyFormat="N">6.250</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">6.250</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="0986">
+                  <scpr:maturity xc:type="Fields" xc:value="MAR 26">
+                     <mp:bid1 xc:keyFormat="N">100.0</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">100.0</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="0904">
+                  <scpr:maturity xc:type="Fields" xc:value="MAR 26">
+                     <mp:bid1 xc:keyFormat="N">100.0</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">100.0</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="0908">
+                  <scpr:maturity xc:type="Fields" xc:value="MAR 26">
+                     <mp:bid1 xc:keyFormat="N">100.0</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">100.0</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+         <scpr:type xc:value="Future">
+            <scpr:market xc:value="ZAR BD GOV">
+               <scpr:label xc:value="C446">
+                  <scpr:maturity xc:type="Fields" xc:value="MAR 26">
+                     <mp:bid1 xc:keyFormat="N">100.000</mp:bid1>
+                     <mp:ask1 xc:keyFormat="N">100.000</mp:ask1>
+                  </scpr:maturity>
+               </scpr:label>
+            </scpr:market>
+         </scpr:type>
+      </scpr:price>
+   </sc:security>
+</mp:date>
